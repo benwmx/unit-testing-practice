@@ -16,5 +16,3 @@ class Calculator {
 }
 
 module.exports = Calculator;
-
-console.log(Calculator().add());
