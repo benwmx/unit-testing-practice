@@ -1,5 +1,5 @@
 const stringLength = require('./stringLength');
 
 test('length of string', () => {
-  expect(stringLength('rachid')).toBe(6);
+  expect(stringLength('rachida')).toBe(7);
 });
