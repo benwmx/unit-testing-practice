@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1630492416664" clover="3.2.0">
-  <project timestamp="1630492416665" name="All files">
-    <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="13" coveredelements="13" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
-    <file name="stringLength.js" path="/home/r23b/Desktop/Projects/unit-testing-practice/stringLength.js">
-      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="2" count="2" type="stmt"/>
-      <line num="3" count="2" type="stmt"/>
-      <line num="4" count="2" type="stmt"/>
-      <line num="5" count="6" type="stmt"/>
-      <line num="7" count="2" type="cond" truecount="4" falsecount="0"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
+<coverage generated="1630493205747" clover="3.2.0">
+  <project timestamp="1630493205747" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+    <file name="reverseString.js" path="/home/r23b/Desktop/Projects/unit-testing-practice/reverseString.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="7" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
