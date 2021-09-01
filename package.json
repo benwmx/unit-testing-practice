@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-practice",
+  "version": "1.0.0",
+  "description": "unit testing practice using jest library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwmx/unit-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benwmx/unit-testing-practice/issues"
+  },
+  "homepage": "https://github.com/benwmx/unit-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
