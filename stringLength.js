@@ -6,3 +6,5 @@ const stringLength = (string) => {
   }
   return length;
 }
+
+module.exports = stringLength;
