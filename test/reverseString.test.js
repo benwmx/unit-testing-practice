@@ -1,4 +1,4 @@
-const reverseString = require('./reverseString');
+const reverseString = require('../functions/reverseString');
 
 test('reverse a string', () => {
   expect(reverseString('abc')).toBe('cba');

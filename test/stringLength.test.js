@@ -1,4 +1,4 @@
-const stringLength = require('./stringLength');
+const stringLength = require('../functions/stringLength');
 
 test('length of a string', () => {
   expect(stringLength('rachid')).toBe(6);
