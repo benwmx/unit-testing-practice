@@ -8,5 +8,6 @@ describe('capitalize function', () => {
     expect(capitalize('&@//]@^')).toBe('&@//]@^');
     expect(capitalize('r')).toBe('R');
     expect(capitalize('')).toBe('');
+    expect(capitalize('0')).toBe('0');
   })
 });
